@@ -1,2 +1,1 @@
-This is a Python number guessing game.
-The user tries to guess a random number.
+This is a Python number guessing game i built. the user has 5 tries to guess the number.
